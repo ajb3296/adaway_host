@@ -11,7 +11,7 @@
 127.0.0.1  i0.wp.com/files2.goodcdnnetwork.com/img/ad29_300x250.png
 127.0.0.1  bingre-a.com/login.php
 127.0.0.1  ads.trafficjunky.net/ads?zone_id=2055241&site_id=2&format=directLP
-127.0.0.1  ani24zo.com/ads.php?
+127.0.0.1  ani24zo.com/ads.php
 127.0.0.1  ani24zo.com/ads.php?ads=30
 127.0.0.1  ani24zo.com/ads.php?ads=29
 127.0.0.1  ani24zo.com/ads.php?ads=28
