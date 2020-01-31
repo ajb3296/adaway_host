@@ -3,12 +3,19 @@
 # https://newpremium.github.io/adaway_host/hosts.txt
 #
 127.0.0.1  localhost
-127.0.0.1  http://wb-at.com/
-127.0.0.1  http://win-애니24.com/
-127.0.0.1  http://6duckshop.com/
-127.0.0.1  https://hiyobi.me/dist/tjqjql/6duck.jpg
-127.0.0.1  https://best2019-games-web4.com/cuntwars/new/6_1/index.html?p1=http%3A%2F%2Fcuntwars.com%2F%3Fpid%3D17%26sid%3D14360981%26s2s%3DVjN8MTQzNjA5ODF8MTUwNDU3NXw3NzQ3MjY0fDE1ODA0NjI5MTR8MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAwfDExOS42My4yNDYuNTh8MXxlbT10fHNoPTRiYTY1NDMxMTM2NmE2MWJmODcwOWUzMGMwY2Q4M2MzNGI5ZWYyNWI3MmM5MWFhNDE2MDEyODg4ODY4MzlhOWU4NzhiY2RkN2M2NWQ3ZjMzZDJmYjk3NjQwNGMwNDkxNTBlZjE3ZDc4NjQxMzFlZmZkZWNhYzMxNzkxYTQxOTZmZGFhMTFlZGQzZTg1ZWE5NmI2NzhiODk2YjBhOTc5ZGQzNzViM2V8NzUwNTE1YzkyODRkMDFlZmEwNTliYjUyODY0NTE2YzM=&country_code=KR
-127.0.0.1  https://i0.wp.com/files2.goodcdnnetwork.com/img/ad29_300x250.png
-127.0.0.1  http://bingre-a.com/login.php
-127.0.0.1  https://ani24zo.com/ads.php
-127.0.0.1  https://ads.trafficjunky.net/ads?zone_id=2055241&site_id=2&format=directLP
+127.0.0.1  wb-at.com
+127.0.0.1  win-애니24.com
+127.0.0.1  6duckshop.com
+127.0.0.1  hiyobi.me/dist/tjqjql/6duck.jpg
+127.0.0.1  best2019-games-web4.com/cuntwars/new/6_1/index.html?p1=http%3A%2F%2Fcuntwars.com%2F%3Fpid%3D17%26sid%3D14360981%26s2s%3DVjN8MTQzNjA5ODF8MTUwNDU3NXw3NzQ3MjY0fDE1ODA0NjI5MTR8MDAwMDAwMDAtMDAwMC0wMDAwLTAwMDAtMDAwMDAwMDAwMDAwfDExOS42My4yNDYuNTh8MXxlbT10fHNoPTRiYTY1NDMxMTM2NmE2MWJmODcwOWUzMGMwY2Q4M2MzNGI5ZWYyNWI3MmM5MWFhNDE2MDEyODg4ODY4MzlhOWU4NzhiY2RkN2M2NWQ3ZjMzZDJmYjk3NjQwNGMwNDkxNTBlZjE3ZDc4NjQxMzFlZmZkZWNhYzMxNzkxYTQxOTZmZGFhMTFlZGQzZTg1ZWE5NmI2NzhiODk2YjBhOTc5ZGQzNzViM2V8NzUwNTE1YzkyODRkMDFlZmEwNTliYjUyODY0NTE2YzM=&country_code=KR
+127.0.0.1  i0.wp.com/files2.goodcdnnetwork.com/img/ad29_300x250.png
+127.0.0.1  bingre-a.com/login.php
+127.0.0.1  ads.trafficjunky.net/ads?zone_id=2055241&site_id=2&format=directLP
+127.0.0.1  ani24zo.com/ads.php?
+127.0.0.1  ani24zo.com/ads.php?ads=30
+127.0.0.1  ani24zo.com/ads.php?ads=29
+127.0.0.1  ani24zo.com/ads.php?ads=28
+127.0.0.1  ani24zo.com/ads.php?ads=27
+127.0.0.1  ani24zo.com/ads.php?ads=26
+127.0.0.1  d.wp486.com
+
