@@ -2,11 +2,16 @@
 # Adaway host
 # https://newpremium.github.io/adaway_host/hosts.txt
 #
+
 127.0.0.1  localhost
+
+# Hiyobi
+127.0.0.1  hiyobi.me/dist/tjqjql/6duck.jpg
+
+
 127.0.0.1  wb-at.com
 127.0.0.1  win-애니24.com
 127.0.0.1  6duckshop.com
-127.0.0.1  hiyobi.me/dist/tjqjql/6duck.jpg
 127.0.0.1  best2019-games-web4.com
 127.0.0.1  i0.wp.com
 127.0.0.1  bingre-a.com
