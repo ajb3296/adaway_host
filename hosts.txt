@@ -1,5 +1,6 @@
 #
 # Adaway host
+# https://newpremium.github.io/adaway_host/hosts.txt
 #
 127.0.0.1  localhost
 127.0.0.1  http://wb-at.com/
