@@ -18,7 +18,6 @@
 127.0.0.1  ads.trafficjunky.net
 127.0.0.1  d.wp486.com
 127.0.0.1  wondjwwgqahw.com
-127.0.0.1  res.cloudinary.com
 127.0.0.1  slot1009.com
 127.0.0.1  spin200.com
 127.0.0.1  www.wbc-th.com
