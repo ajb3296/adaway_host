@@ -22,3 +22,4 @@
 127.0.0.1  spin200.com
 127.0.0.1  www.wbc-th.com
 127.0.0.1  sureman77.com
+127.0.0.1  www.kotaku.xyz
