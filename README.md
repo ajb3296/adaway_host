@@ -6,4 +6,4 @@
 
 ## host link
 
-https://newpremium.github.io/adaway_host/
+https://newpremium.github.io/adaway_host/hosts.txt
