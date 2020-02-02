@@ -22,3 +22,4 @@
 127.0.0.1  www.kotaku.xyz
 127.0.0.1  orange.contentsfeed.com
 127.0.0.1  yjfhadfc.com
+127.0.0.1  i0.wp.com/files2.goodcdnnetwork.com
