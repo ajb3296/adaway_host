@@ -27,3 +27,4 @@
 127.0.0.1  adv.zdnet.co.kr
 127.0.0.1  cm.keywordsconnect.com
 127.0.0.1  cdn.targetpush.co.kr
+127.0.0.1  news.targetview.com
