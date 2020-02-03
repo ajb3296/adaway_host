@@ -24,3 +24,6 @@
 127.0.0.1  yjfhadfc.com
 127.0.0.1  i0.wp.com/files2.goodcdnnetwork.com
 127.0.0.1  www.interworksmedia.co.kr
+127.0.0.1  adv.zdnet.co.kr
+127.0.0.1  cm.keywordsconnect.com
+127.0.0.1  cdn.targetpush.co.kr
