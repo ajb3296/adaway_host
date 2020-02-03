@@ -29,3 +29,4 @@
 127.0.0.1  cdn.targetpush.co.kr
 127.0.0.1  news.targetview.com
 127.0.0.1  menu.mt.co.kr
+127.0.0.1  i0.wp.com/files2.goodcdnnetwork.com/img
