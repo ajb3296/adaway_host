@@ -33,3 +33,5 @@
 127.0.0.1  cnctgpeople3.live
 127.0.0.1  tivan.naver.com
 127.0.0.1  adcr.naver.com
+127.0.0.1  www.mediacategory.com
+127.0.0.1  mediacategory.com
