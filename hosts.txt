@@ -37,3 +37,5 @@
 127.0.0.1  mediacategory.com
 127.0.0.1  click.clickmon.co.kr/CLICK_server
 127.0.0.1  adver12.clickmon.co.kr
+127.0.0.1  altg.widerplanet.com
+127.0.0.1  cdn-aitg.widerplanet.com
