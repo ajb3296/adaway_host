@@ -35,3 +35,5 @@
 127.0.0.1  adcr.naver.com
 127.0.0.1  www.mediacategory.com
 127.0.0.1  mediacategory.com
+127.0.0.1  click.clickmon.co.kr/CLICK_server
+127.0.0.1  adver12.clickmon.co.kr
