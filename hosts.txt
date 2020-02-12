@@ -39,3 +39,4 @@
 127.0.0.1  adver12.clickmon.co.kr
 127.0.0.1  altg.widerplanet.com
 127.0.0.1  cdn-aitg.widerplanet.com
+127.0.0.1  kbyelxqr.com
