@@ -40,3 +40,4 @@
 127.0.0.1  altg.widerplanet.com
 127.0.0.1  cdn-aitg.widerplanet.com
 127.0.0.1  kbyelxqr.com
+127.0.0.1  xml.adright.co
