@@ -44,7 +44,7 @@
 127.0.0.1  kbyelxqr.com
 127.0.0.1  xml.adright.co
 
-# 사기당하지 마세요(오픈채팅방 운영중 나오는 광고충새끼들 다 뒤져봐라ㅋ 코로나땜에 할거없지? 운영진도 할거없어서 니들 다 뒤지라고 만들었다 수고)
+# 사기당하지 마세요(오픈채팅방 운영중 나오는 광고충새끼들 다 뒤져봐라ㅋ 코로나땜에 할거없지? 운영진도 할거없어서 니들 다 뒤지라고 만들었다. 도메인 바꾸는거 귀찮을텐데ㅋ 내가 운영하는방 들어와서 광고뿌리면 바로 리스트 직행인걸로 알아라)
 
 127.0.0.1  band-ksj.com
 127.0.0.1  moneyrch.com
@@ -52,3 +52,15 @@
 127.0.0.1  band.gg
 127.0.0.1  sieun1.com
 127.0.0.1  ssoeasywoxor.com
+
+# 카톡방
+127.0.0.1  open.kakao.com/o/sWKY0W1b
+127.0.0.1  open.kakao.com/o/gJZkSBXb
+127.0.0.1  open.kakao.com/o/gO0sViPb
+127.0.0.1  open.kakao.com/o/gOj2Jo2b
+127.0.0.1  open.kakao.com/o/gbXKXTSb
+
+# 텔레그램방
+
+127.0.0.1  t.me/joinchat/AAAAAEvGQHuV-X1j0Oe-5A
+127.0.0.1  
