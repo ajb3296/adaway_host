@@ -41,3 +41,6 @@
 127.0.0.1  cdn-aitg.widerplanet.com
 127.0.0.1  kbyelxqr.com
 127.0.0.1  xml.adright.co
+
+# 사기당하지 마세요(오픈채팅방 운영중 나오는 광고충새끼들 다 뒤져봐라ㅋ)
+127.0.0.1 band-ksj.com
