@@ -63,4 +63,3 @@
 # 텔레그램방
 
 127.0.0.1  t.me/joinchat/AAAAAEvGQHuV-X1j0Oe-5A
-127.0.0.1  
