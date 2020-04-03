@@ -52,6 +52,7 @@
 127.0.0.1  band.gg
 127.0.0.1  sieun1.com
 127.0.0.1  ssoeasywoxor.com
+127.0.0.1  dpem33.dothome.co.kr
 
 # 카톡방
 127.0.0.1  open.kakao.com/o/sWKY0W1b
