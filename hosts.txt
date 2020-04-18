@@ -64,3 +64,10 @@
 # 텔레그램방
 
 127.0.0.1  t.me/joinchat/AAAAAEvGQHuV-X1j0Oe-5A
+
+
+
+
+# Other
+
+127.0.0.1  www.facebook.com/106581920997376/posts/122645002724401/
