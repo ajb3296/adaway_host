@@ -53,6 +53,8 @@
 127.0.0.1  sieun1.com
 127.0.0.1  ssoeasywoxor.com
 127.0.0.1  dpem33.dothome.co.kr
+127.0.0.1  www.livekakao.net
+127.0.0.1  livekakao.net
 
 # 카톡방
 127.0.0.1  open.kakao.com/o/sWKY0W1b
@@ -64,10 +66,3 @@
 # 텔레그램방
 
 127.0.0.1  t.me/joinchat/AAAAAEvGQHuV-X1j0Oe-5A
-
-
-
-
-# Other
-
-127.0.0.1  www.facebook.com/106581920997376/posts/122645002724401/
