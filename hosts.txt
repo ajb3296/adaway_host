@@ -56,6 +56,7 @@
 127.0.0.1  dpem33.dothome.co.kr
 127.0.0.1  www.livekakao.net
 127.0.0.1  livekakao.net
+127.0.0.1  band1992.com
 
 # 카톡방
 127.0.0.1  open.kakao.com/o/sWKY0W1b
