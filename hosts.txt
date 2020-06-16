@@ -57,6 +57,7 @@
 127.0.0.1  www.livekakao.net
 127.0.0.1  livekakao.net
 127.0.0.1  band1992.com
+127.0.0.1  kobank.co.kr
 
 # 카톡방
 127.0.0.1  open.kakao.com/o/sWKY0W1b
