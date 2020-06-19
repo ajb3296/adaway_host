@@ -44,6 +44,7 @@
 127.0.0.1  kbyelxqr.com
 127.0.0.1  xml.adright.co
 127.0.0.1  adcr.shopping.naver.com
+127.0.0.1  me2.do
 
 # 사기꾼 새끼들
 
