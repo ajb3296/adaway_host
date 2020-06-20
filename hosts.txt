@@ -46,6 +46,7 @@
 127.0.0.1  adcr.shopping.naver.com
 127.0.0.1  me2.do/5vBoXBO5
 127.0.0.1  protectpro.xyz/droid/l3
+127.0.0.1  sicurity.info
 
 # 사기꾼 새끼들
 
