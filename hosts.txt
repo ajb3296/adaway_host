@@ -48,8 +48,10 @@
 127.0.0.1  protectpro.xyz/droid/l3
 127.0.0.1  sicurity.info
 
+127.0.0.1  screen.buzzvil.com
+
 # 카톡광고
-ad.daumkakao.com
+127.0.0.1  ad.daumkakao.com
 
 # 사기꾼 새끼들
 
