@@ -48,6 +48,9 @@
 127.0.0.1  protectpro.xyz/droid/l3
 127.0.0.1  sicurity.info
 
+# 카톡광고
+ad.daumkakao.com
+
 # 사기꾼 새끼들
 
 127.0.0.1  band-ksj.com
